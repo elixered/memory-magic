@@ -12,7 +12,7 @@ function SingleCard({ card, handleChoice, flipped, disabled }) {
             <div className={flipped ? "flipped" : ""}>
                 <img src={card.src} className="front" alt="card front" />
                 <img
-                    src="/img/cover4.jpeg"
+                    src="./memory-magic/img/cover4.jpeg"
                     className="back"
                     alt="card back"
                     onClick={handleClick} />
