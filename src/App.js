@@ -3,12 +3,12 @@ import './App.css'
 import SingleCard from './components/SingleCard';
 
 const cardImages = [
-  { "src": "./memory-magic/img/helmet-1.png", matched: false },
-  { "src": "./memory-magic/img/potion-1.png", matched: false },
-  { "src": "./memory-magic/img/ring-1.png", matched: false },
-  { "src": "./memory-magic/img/scroll-1.png", matched: false },
-  { "src": "./memory-magic/img/shield-1.png", matched: false },
-  { "src": "./memory-magic/img/sword-1.png", matched: false }
+  { "src": "https://elixered.github.io/memory-magic/img/helmet-1.png", matched: false },
+  { "src": "https://elixered.github.io/memory-magic/img/potion-1.png", matched: false },
+  { "src": "https://elixered.github.io/memory-magic/img/ring-1.png", matched: false },
+  { "src": "https://elixered.github.io/memory-magic/img/scroll-1.png", matched: false },
+  { "src": "https://elixered.github.io/memory-magic/img/shield-1.png", matched: false },
+  { "src": "https://elixered.github.io/memory-magic/img/sword-1.png", matched: false }
 ]
 
 function App() {
